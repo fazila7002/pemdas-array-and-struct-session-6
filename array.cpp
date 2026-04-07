@@ -14,6 +14,10 @@ int main(){
 
     cout << "Isikan data pertama : ";
     cin >> datamu[0];
-    
+
+    cout << "Isikan data kedua : ";
+    cin >> datamu[1];
+
+
 
 }
